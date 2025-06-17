@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c399e602-ebc1-4190-bea0-f6294e3808bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/global/pg_control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/db_0.stat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/pg_stat_tmp/global.stat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/data/pg_wal/000000010000000000000001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data/postmaster.pid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/db-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/db-api.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data/docker1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="c399e602-ebc1-4190-bea0-f6294e3808bf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +40,7 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\for gradle\docker1" />
       <recent name="D:\for gradle\docker1\data" />
+      <recent name="D:\for gradle\docker1\data\data" />
     </key>
   </component>
   <component name="RunManager" selected="Docker.data: Compose Deployment">
